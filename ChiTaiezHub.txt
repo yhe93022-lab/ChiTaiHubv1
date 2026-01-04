@@ -1,9 +1,5 @@
 local v14 = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))();
 local v15 = v14:CreateWindow({
-v14:Notify({
-    Title = "Hub Fixed",
-    Content = "Bấm Alt trái để mở/tắt menu nhé bro!",
-    Duration = 8
 })
     Title = "Tắc kè hub [ Premium ]",-- thay tên bạn muốn đặt
     SubTitle = "By Chí Tài",-- tên bạn
@@ -9031,5 +9027,6 @@ spawn(function()
         end
     end
 end);
+
 
 
